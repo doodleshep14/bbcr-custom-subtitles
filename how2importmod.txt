@@ -1,0 +1,10 @@
+Step 1: Copy the Subtitles_En.json file.
+Step 2: Go onto Steam.
+Step 3: Go onto Baldi's Basics Classic Remastered.
+Step 4: Click the settings icon.
+Step 5: Hover over Manage.
+Step 6: Click "Browse local files".
+Step 7: Click BALDI_Data
+Step 8: Click StreamingAssets
+Step 9: Paste the Subtitles_En.json file.
+Step 10: Click "Replace the file in this destination".
